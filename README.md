@@ -9,8 +9,7 @@ Welcome to the URL Shortener repo! This is your go-to app for converting those m
 - 📈 **Scalability**: Handles insane traffic like a pro.  
 - ❌ **Error Handling**: Validates bad URLs and gives friendly error messages—no more crashes.  
 - 📡 **API Support**: Integrate seamlessly with your apps via RESTful APIs.  
-- 🔒 **Security**: Protect your links with rate limiting, input sanitization, and encrypted storage.  
-What Happens After:
+- 🔒 **Security**: Protect your links with rate limiting, input sanitization, and encrypted storage.
 
 💻 Tech Stack:
 
